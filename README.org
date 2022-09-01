@@ -1,4 +1,2 @@
-#+title: Readme
-
 **** Small set of checklists I use to test the stuff I work on against
 Everything in this repository is a work in progress and based on my own opinions and views.

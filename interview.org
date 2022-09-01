@@ -1,6 +1,6 @@
-#+title: Interview
+#+title: Interview questions
 
 Basically a braindump of interview questions that I am personally interested in asking, ongoing effort.
 
 1. How would you describe your core work ethic principles?
-2. What would be the one advice you can give to every developer?
+2. What would be the one advice you can give to any developer?
