@@ -1,0 +1,11 @@
+* Mockup checklist
+- [ ] Should it support dark/light theme?
+- [ ] Does the product have themes? If so - should the components change their geometry depending on a theme?
+- [ ] Does it have a mobile viewport?
+- [ ] Are colors static?
+- [ ] Is geometry static?
+- [ ] Are there any elements that should be animated? If so - what are the animation timing and keyframes?
+- [ ] If some background color inputs are dynamic and have a foreground text - what is the algorithm for picking the right contrast?
+- [ ] For each text label on the screen - what should happen when the label length becomes x5 of its original mockup version?
+- [ ] Do we have all the fonts required by the mockup?
+- [ ] Do we have all the static assets?
