@@ -9,3 +9,4 @@
 - [ ] For each text label on the screen - what should happen when the label length becomes x5 of its original mockup version?
 - [ ] Do we have all the fonts required by the mockup?
 - [ ] Do we have all the static assets?
+- [ ] Names being used - do they represent a combination of ~firstName~ and ~lastName~ or is just a single string? May be useful for cases when in order to save space we might split the name and display first name slightly higher (or in any other geometrical way that suits the situation).
